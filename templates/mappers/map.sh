@@ -31,7 +31,7 @@ notify ()
 
 map ()
 {
-  // call your application here
+  # call your application here
 }
 
 
