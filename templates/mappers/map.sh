@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Sven was here
-
 log ()
 {
   logTimestamp=`date --rfc-3339=seconds`
