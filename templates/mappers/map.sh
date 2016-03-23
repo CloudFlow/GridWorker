@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+#Sven was here
 
 log ()
 {
